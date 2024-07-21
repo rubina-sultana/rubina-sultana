@@ -58,7 +58,6 @@ I can grow and learn as a front-end developer and where I can put my skills to u
 
 - <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto"
 width="20"/> [LinkedIn](https://www.linkedin.com/in/rubina-sultana-5b83b2241/")
-- <img align="center" src="https://th.bing.com/th?id=OIP.ItmkH87e1K1GpQ8F2hyiegAAAA&w=273&h=228&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" alt="HackerRank profile" height="auto" width="28"/> [HackerRank]
-(https://www.hackerrank.com/profile/rubinasultana134")
+- <img align="center" src="https://th.bing.com/th?id=OIP.ItmkH87e1K1GpQ8F2hyiegAAAA&w=273&h=228&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" alt="HackerRank profile" height="auto" width="28"/> [HackerRank](https://www.hackerrank.com/profile/rubinasultana134")
 - <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/00e000/external-multi-platform-online-code-editor-and-open-
 source-learning-service-logo-shadow-tal-revivo.png" alt="codepen profile" height="auto" width="20"/> [CodePen](https://codepen.io/catherineisonline")
