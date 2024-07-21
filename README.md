@@ -5,7 +5,7 @@
 - 📫 How to reach me Email: rubinasultana134@gmail.com
 -                     LinkedIN: https://www.linkedin.com/in/rubina-sultana-5b83b2241
 
-! [rubina-sultana Github](https://github.com/catherineisonline/scandi/blob/main/Github%20profile.png?raw=true)
+[rubina-sultana Github](https://github.com/catherineisonline/scandi/blob/main/Github%20profile.png?raw=true)
 
 As a aspiring ArtificialIntelligence and DataScience graduate interseted in creating a new frontend,Backend,MachineLearning and Datascience projects
 I am a highly adaptable and versatile professional looking to transition into the field of front-end web development ,AI and MachineLearning , Data Analysis,
@@ -44,10 +44,9 @@ I can grow and learn as a front-end developer and where I can put my skills to u
 <img src="https://th.bing.com/th/id/OIP.G4PUxtFicqd00Ew8g8JQ9gHaEK?w=326&h=183&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Python" width="40" height="40"/>
 <img src="https://th.bing.com/th/id/OIP.OSpHUHUwvofjQNe7AJZ9eQHaEo?w=315&h=196&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Java" width="40" height="40"/>
 <img src="https://www.bing.com/images/search?view=detailV2&ccid=maoD0%2fJr&id=21EE44B85C940539B06D45D84B85A14B27FA8B98&thid=OIP.maoD0_Jrq5ZUum6e3Q-mmgHaEH&mediaurl=https%3a%2f%2fthumbs.dreamstime.com%2fz%2fbig-data-center-analyzes-data-science-background-presentation-big-data-center-analyzes-data-science-background-159196598.jpg&exph=890&expw=1600&q=Datascience+iamges&simid=608030957492308264&FORM=IRPRST&ck=F78E02DA29F7E5ADFE08AA466A711EB6&selectedIndex=3&itb=0" alt="DataScience" width="40" height="40"/>
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=Oxo%2bu9GM&id=58CA7953FF1BC78D5B7B46235FC9775856D36961&thid=OIP.Oxo-u9GMK3zbEM5h-FiVnQHaEK&mediaurl=https%3a%2f%2fdeltalyz.com%2fwp-content%2fuploads%2f2023%2f02%2fMicrosoft-Power-BI-Symbol.png&exph=2160&expw=3840&q=PoewerBI+images&simid=608014726788223317&FORM=IRPRST&ck=C5A2CDD5C00212338FB84EAE0CCFCD8E&selectedIndex=34&itb=1" alt="PowerBI" width="40" height="40"/>
+<img src="https://th.bing.com/th/id/OIP.shGOhtIdDvsjExQmrHOqXwHaEK?rs=1&pid=ImgDetMain" alt="PowerBI" width="40" height="40"/>
 <img src="https://www.bing.com/images/search?view=detailV2&ccid=Z9q5m4Xf&id=62354FCD70F24AEFFA6622CB18C9DEF7A75045FC&thid=OIP.Z9q5m4XfokQFwFVhe-l-dwHaEK&mediaurl=https%3a%2f%2fwww.marketing91.com%2fwp-content%2fuploads%2f2020%2f08%2fData-Analysis.jpg&exph=1080&expw=1920&q=Data+Analysis+images&simid=608047342785859916&FORM=IRPRST&ck=6C7D136E5774A7AD07E96EA5271236CA&selectedIndex=17&itb=0" alt="DataAnalysis" width="40" height="40"/>
-<ing src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/htm15-original-wordmark.svg" alt="htm15" width="40" height="40"/>
-<ing src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
+<img src="https://th.bing.com/th/id/OIP.wtbphh9buB7NAjHoCtv74wAAAA?w=152&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="htm15" width="40" height="40"/>
 
 </p>
 
