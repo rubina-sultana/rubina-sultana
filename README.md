@@ -15,25 +15,6 @@ Data Analysis ,AI and MachineLearning.I am a quick learner and a team player, an
 development team. I am eager to take on new challenges and contribute to projects that make a meaningful impact. I am looking for an opportunity to join a company where 
 I can grow and learn as a front-end developer and where I can put my skills to use in real-world projects.
 
-
-## Languages & Tools
-
-<p>
-<img sre="https://cdn.jsdelivr.net/gh/devicons/devicom/icons/react/react-original.svg" alt="react" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="35"/>
-<ing sre="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="30" height="35"/>
-<ing src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicom/icons/tailwindess/tailwindcss-plain.svg" alt="tailwind" width="35" height="35" />
-<ing src="https://cdn.jsdelivr.net/gh/devicons/devicom/icons/sass/sass-original.svg" alt="sass" width="35" height="35"/>
-<ing src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/htm15-original-wordmark.svg" alt="htm15" width="40" height="40"/>
-<img sre="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
-<img sre="https://cdn.jsdelivr.net/gh/devicons/devicom/icons/figma/figma-original.svg" alt="figra" width="30" height="35"/>
-<ing Src="https://cdn.jsdelivr.net/gh/devicons/devicom/icons/git/git-original.svg" alt="git" width="35" height="35"/>
-<ing sre="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="35" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="30" height="30"/>
-</p>
-
-
 ## Languages & Tools
 
 <img src="https://cdn.idevie.com/wp-content/uploads/2015/12/React.js_logo.svg_.png" alt="react" width="35" height="35"/>
@@ -60,3 +41,5 @@ I can grow and learn as a front-end developer and where I can put my skills to u
 width="20"/> [LinkedIn](https://www.linkedin.com/in/rubina-sultana-5b83b2241/")
 - <img align="center" src="https://th.bing.com/th?id=OIP.ItmkH87e1K1GpQ8F2hyiegAAAA&w=273&h=228&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" alt="HackerRank profile" height="auto" width="28"/> [HackerRank](https://www.hackerrank.com/profile/rubinasultana134")
 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
